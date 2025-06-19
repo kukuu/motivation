@@ -43,7 +43,9 @@ No one likes a boss who is constantly looking over his/her shoulder and second-g
 
 Some meetings can be an incredible waste of time - the average professional wastes 3.8 hours in unproductive meetings each and every week. Create an agenda for your meetings and distribute it in advance. Invite only the people who really need to attend, start the meeting on time, and then end it as quickly as you possibly can.
 
-## Concise action plan with practical steps and examples for motivating, coaching, and elevating engineering teams:
+## Concise action plan 
+
+### Practical steps: motivating, coaching, and elevating engineering teams:
 
 🚀 Motivation & Ownership
 
