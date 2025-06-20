@@ -7,9 +7,9 @@ Below are some mistakes leaders make that drive away their top talent. Rule of t
 
 ## How to motivate your team
 
-1. Pay your people what they are worth
+1.  Set clear goals
 
-When you set your employees' salaries, be sure that their pay is consistent with what other companies in your industry and geographic area are paying. Remember: 26 percent of engaged employees say that they would leave their current job for just a 5 percent increase in pay. Don't lose great people because you're underpaying them.
+Sizeable amount of Employees have reported that they wasted time at work because they weren't aware of what work was a priority, and what wasn't. As a leader, it's your job to work with the members of your team to set clear goals. And once you do that, make sure everyone knows exactly what those goals are, what their relative priority is, and what the team's role is in reaching them. 
 
 2. Provide them with a pleasant place to work
 
@@ -31,9 +31,10 @@ Happy employees are enthusiastic and positive members of the team, and their att
 
 We all make mistakes. It's part of being human. The key is to learn valuable lessons from those mistakes so we don't make them again. When members of your team make honest mistakes, don't punish them. Instead, encourage them to try again, and promote a "Blameles Post-mortem" and hold retrospectives to improve failures. Note the principle of fail fast in Agile.
 
-7. Set clear goals
+7. Pay your people what they are worth
 
-Sizeable amount of Employees have reported that they wasted time at work because they weren't aware of what work was a priority, and what wasn't. As a leader, it's your job to work with the members of your team to set clear goals. And once you do that, make sure everyone knows exactly what those goals are, what their relative priority is, and what the team's role is in reaching them.
+When you set your employees' salaries, be sure that their pay is consistent with what other companies in your industry and geographic area are paying. Remember: 26 percent of engaged employees say that they would leave their current job for just a 5 percent increase in pay. Don't lose great people because you're underpaying them.
+
 
 8. Don't micromanage
 
